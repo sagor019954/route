@@ -1,0 +1,13 @@
+.link a {
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.link a:hover {
+    background-color: lawngreen;
+}
+
+.isActive {
+    background-color: aqua;
+}
